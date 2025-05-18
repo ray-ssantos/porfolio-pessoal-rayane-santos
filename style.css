@@ -7,7 +7,7 @@ body{
   width:90%;
   height: 500px;
   margin: auto;
-  background-image: url(https://github.com/ray-ssantos/porfolio-pessoal-rayane-santos/blob/5ab78a05c5c99a5816252941b99fd1766ad634d2/imagens/capa.jpg);
+  background-image: url(imagens/capa.jpg);
   padding:50px;
 }
 
@@ -60,7 +60,7 @@ li a:hover{
   width:90%;
   height: 200px;
   margin: auto;
-  background-image: url(https://github.com/ray-ssantos/porfolio-pessoal-rayane-santos/blob/5ab78a05c5c99a5816252941b99fd1766ad634d2/imagens/capa.jpg);
+  background-image: url(imagens/capa.jpg);
   padding:50px;
 }
 
