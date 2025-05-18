@@ -1,0 +1,106 @@
+body{
+  width: 95%;
+  margin: auto;
+  font-family: 'Courier New', Courier, monospace;
+}
+#capa-imagem01{
+  width:90%;
+  height: 500px;
+  margin: auto;
+  background-image: url(/imagens/capa.jpg);
+  padding:50px;
+}
+
+#capa01{
+  margin-top: 350px;
+  margin-left: 5px;
+  text-align: left;
+}
+.texto-capa{
+  margin: 0;
+  font-size: x-large;
+}
+#texto-nome{
+  margin-top: 0;
+  margin-left: 20px;
+  margin-bottom: 5px;
+  font-size: xx-large;
+  text-decoration: underline;
+}
+#menu-inicio{
+  display: block;
+  margin-top: 30px;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 700px;
+  margin: auto;
+  background-color: #f1f1f1;
+}
+li{
+  float: left;
+  font-size: x-large;
+}
+li a{
+  color: black;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-bottom: 2px solid black;
+}
+li a:hover{
+  background-color: #555;
+  color: white;
+}
+
+#capa-imagem02{
+  width:90%;
+  height: 200px;
+  margin: auto;
+  background-image: url(/imagens/capa.jpg);
+  padding:50px;
+}
+
+#menu-voltar{
+  margin-top: 2%;
+  margin-right: 2%;
+  display: block;
+  position: relative;
+  float: right;
+}
+
+nav a{
+  color: black;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-bottom: 2px solid black;
+}
+#texto{
+  width: 70%;
+  margin: auto;
+  font-size: x-large;
+  text-align: justify;
+}
+.curso{
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.ano{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#contato{
+  font-size:xx-large;
+}
+
+button{
+  background-color: #f1f1f1;
+  text-align: center;
+  border: 1px hidden black
+}
